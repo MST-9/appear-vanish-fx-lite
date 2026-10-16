@@ -1,0 +1,20 @@
+{
+  "name": "appear-vanish-fx-lite",
+  "displayName": "Appear & Vanish FX (Lite)",
+  "description": "Spawn, teleport and fade transitions from your own sprite: ordered-dither fades, scanline wipes, seeded scatter reveals and a teleport-beam materialise. Tagged, palette-safe, one undo.",
+  "version": "1.0.0",
+  "author": {
+    "name": "MST-9 Tools"
+  },
+  "license": "MIT",
+  "categories": [
+    "Scripts"
+  ],
+  "contributes": {
+    "scripts": [
+      {
+        "path": "./plugin.lua"
+      }
+    ]
+  }
+}
